@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Code2 is a company of people who love to code. We develop custom web software, using cutting edge technologies such as [Ruby on Rails](http://www.rubyonrails.org), [EmberJS](http://emberjs.com), [Swift](https://developer.apple.com/swift/) and so on.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+You can reach our **GitHub** pages and **Twitter** account from links below. 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Posts are in Turkish and English. 
+
